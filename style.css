@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    list-style: none;
+    display: flex;
+}
+.footer_li {
+    margin: 0 15px;
+}
